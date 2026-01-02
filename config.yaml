@@ -1,0 +1,52 @@
+project:
+  name: "AI ML Project"
+  version: "1.0.0"
+
+data:
+  train_path: "data/train.csv"
+  test_path: "data/test.csv"
+  validation_split: 0.2
+
+preprocessing:
+  handle_missing: true
+  missing_strategy: "mean"
+  remove_outliers: true
+  outlier_method: "iqr"
+  scale_features: true
+  scaling_method: "standard"
+
+features:
+  create_polynomial: false
+  polynomial_degree: 2
+  create_interactions: false
+  feature_selection: true
+  selection_method: "k_best"
+  n_features: 10
+
+model:
+  task: "classification"
+  type: "random_forest"
+  parameters:
+    n_estimators: 100
+    max_depth: 10
+    random_state: 42
+
+training:
+  cross_validation: true
+  cv_folds: 5
+  hyperparameter_tuning: false
+  tuning_method: "grid_search"
+
+evaluation:
+  metrics:
+    - "accuracy"
+    - "precision"
+    - "recall"
+    - "f1_score"
+  save_visualizations: true
+  visualization_path: "outputs/visualizations"
+
+output:
+  model_path: "outputs/models"
+  results_path: "outputs/results"
+  logs_path: "outputs/logs"
