@@ -141,7 +141,7 @@ class MultilingualTokenizer:
 
         print(f"✓ Built vocabulary with {len(self.vocab)} tokens")
 
-    def encode(self, text: str, add_special_tokens: bool = True) -> List[int]:
+    def encode(self, text: str, add_special_tokens: bool = True, max_length: Optional[int] = None) -> List[int]:
         """Encode text to token IDs"""
         tokens = self.tokenize(text)
         token_ids = []
@@ -152,6 +152,10 @@ class MultilingualTokenizer:
         for token in tokens:
             token_id = self.vocab.get(token, self.special_tokens['<UNK>'])
             token_ids.append(token_id)
+
+            # Check max_length
+            if max_length and len(token_ids) >= max_length - 1:
+                break
 
         if add_special_tokens:
             token_ids.append(self.special_tokens['<EOS>'])
