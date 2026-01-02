@@ -1,0 +1,62 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-ml-environment"
+version = "0.1.0"
+description = "Modular scaffolding for AI/ML experimentation"
+requires-python = "~=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "torch",
+    "torchvision",
+    "torchaudio",
+    "tensorflow",
+    "keras",
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "jupyter",
+    "notebook",
+    "ipykernel",
+    "mlflow",
+    "optuna",
+    "tqdm",
+    "hydra-core",
+    "omegaconf",
+    "pydantic",
+    "fastapi",
+    "uvicorn[standard]",
+    "requests",
+    "python-dotenv",
+    "black",
+    "ruff",
+    "pytest",
+    "pytest-cov"
+]
+
+[project.optional-dependencies]
+deep-learning = [
+    "accelerate",
+    "transformers",
+    "datasets",
+    "sentencepiece",
+    "einops",
+    "bitsandbytes",
+    "peft"
+]
+
+[tool.black]
+line-length = 88
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "I", "B", "UP", "ANN"]
+ignore = []
+
+[tool.pytest.ini_options]
+addopts = "-ra -q"
