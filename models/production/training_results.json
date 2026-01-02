@@ -1,0 +1,915 @@
+{
+  "quality_achieved": "False",
+  "total_iterations": 100,
+  "training_history": [
+    {
+      "iteration": 1,
+      "train_loss": 8.237781543153847,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08859562873840332
+    },
+    {
+      "iteration": 2,
+      "train_loss": 8.237884737786285,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08709716796875
+    },
+    {
+      "iteration": 3,
+      "train_loss": 8.541873243113985,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08973526954650879
+    },
+    {
+      "iteration": 4,
+      "train_loss": 8.842893466364798,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0870053768157959
+    },
+    {
+      "iteration": 5,
+      "train_loss": 8.237840982520972,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08689355850219727
+    },
+    {
+      "iteration": 6,
+      "train_loss": 8.239136616796177,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0867316722869873
+    },
+    {
+      "iteration": 7,
+      "train_loss": 8.237487271049377,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08751654624938965
+    },
+    {
+      "iteration": 8,
+      "train_loss": 8.540796412311467,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08682060241699219
+    },
+    {
+      "iteration": 9,
+      "train_loss": 8.842217843785892,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08685970306396484
+    },
+    {
+      "iteration": 10,
+      "train_loss": 8.2382375626692,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08678531646728516
+    },
+    {
+      "iteration": 11,
+      "train_loss": 7.935258053851644,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08700823783874512
+    },
+    {
+      "iteration": 12,
+      "train_loss": 7.93612897015781,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08769965171813965
+    },
+    {
+      "iteration": 13,
+      "train_loss": 8.238539987460172,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08699917793273926
+    },
+    {
+      "iteration": 14,
+      "train_loss": 7.9372703907777105,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08747220039367676
+    },
+    {
+      "iteration": 15,
+      "train_loss": 7.935000282625323,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08721232414245605
+    },
+    {
+      "iteration": 16,
+      "train_loss": 8.843887138975067,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08694815635681152
+    },
+    {
+      "iteration": 17,
+      "train_loss": 8.539382455672468,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08699989318847656
+    },
+    {
+      "iteration": 18,
+      "train_loss": 8.841590707725576,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08648252487182617
+    },
+    {
+      "iteration": 19,
+      "train_loss": 7.332187710409173,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08664226531982422
+    },
+    {
+      "iteration": 20,
+      "train_loss": 7.633236844779683,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08726716041564941
+    },
+    {
+      "iteration": 21,
+      "train_loss": 8.841576917358653,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0868983268737793
+    },
+    {
+      "iteration": 22,
+      "train_loss": 8.842362548028483,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08861565589904785
+    },
+    {
+      "iteration": 23,
+      "train_loss": 8.237822209059173,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08675646781921387
+    },
+    {
+      "iteration": 24,
+      "train_loss": 7.936096423611598,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08660054206848145
+    },
+    {
+      "iteration": 25,
+      "train_loss": 8.84374485656543,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08697843551635742
+    },
+    {
+      "iteration": 26,
+      "train_loss": 8.539690377741476,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08685779571533203
+    },
+    {
+      "iteration": 27,
+      "train_loss": 8.842026338908862,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08677124977111816
+    },
+    {
+      "iteration": 28,
+      "train_loss": 8.541164154184033,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08701062202453613
+    },
+    {
+      "iteration": 29,
+      "train_loss": 8.541374246519243,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08699345588684082
+    },
+    {
+      "iteration": 30,
+      "train_loss": 8.540638778163377,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08688974380493164
+    },
+    {
+      "iteration": 31,
+      "train_loss": 8.540796681321421,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0867774486541748
+    },
+    {
+      "iteration": 32,
+      "train_loss": 8.54042049243928,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08675789833068848
+    },
+    {
+      "iteration": 33,
+      "train_loss": 7.935436705787031,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08838057518005371
+    },
+    {
+      "iteration": 34,
+      "train_loss": 7.634719977543104,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08712053298950195
+    },
+    {
+      "iteration": 35,
+      "train_loss": 8.842890682686722,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08685040473937988
+    },
+    {
+      "iteration": 36,
+      "train_loss": 8.238793683140097,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0868678092956543
+    },
+    {
+      "iteration": 37,
+      "train_loss": 8.540980256563701,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08671092987060547
+    },
+    {
+      "iteration": 38,
+      "train_loss": 7.93360780894506,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0870370864868164
+    },
+    {
+      "iteration": 39,
+      "train_loss": 8.238175742147144,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08719682693481445
+    },
+    {
+      "iteration": 40,
+      "train_loss": 8.842811962662683,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08710169792175293
+    },
+    {
+      "iteration": 41,
+      "train_loss": 8.540846175302422,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08696103096008301
+    },
+    {
+      "iteration": 42,
+      "train_loss": 7.632068973059419,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08698892593383789
+    },
+    {
+      "iteration": 43,
+      "train_loss": 8.237325493097796,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08707380294799805
+    },
+    {
+      "iteration": 44,
+      "train_loss": 7.936346894976627,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08714580535888672
+    },
+    {
+      "iteration": 45,
+      "train_loss": 8.238495361282663,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0890192985534668
+    },
+    {
+      "iteration": 46,
+      "train_loss": 7.633446388853296,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0869755744934082
+    },
+    {
+      "iteration": 47,
+      "train_loss": 8.239161124298587,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0866854190826416
+    },
+    {
+      "iteration": 48,
+      "train_loss": 7.936027767047396,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08686161041259766
+    },
+    {
+      "iteration": 49,
+      "train_loss": 7.6343956374425765,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08703112602233887
+    },
+    {
+      "iteration": 50,
+      "train_loss": 8.238667474108487,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.086761474609375
+    },
+    {
+      "iteration": 51,
+      "train_loss": 8.238127217681429,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08690333366394043
+    },
+    {
+      "iteration": 52,
+      "train_loss": 8.237725613869575,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08689403533935547
+    },
+    {
+      "iteration": 53,
+      "train_loss": 7.9350635599606685,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0874319076538086
+    },
+    {
+      "iteration": 54,
+      "train_loss": 8.540657763838611,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08704233169555664
+    },
+    {
+      "iteration": 55,
+      "train_loss": 7.6332108949980135,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08703494071960449
+    },
+    {
+      "iteration": 56,
+      "train_loss": 8.237854774635414,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08957171440124512
+    },
+    {
+      "iteration": 57,
+      "train_loss": 7.936124672138286,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08834671974182129
+    },
+    {
+      "iteration": 58,
+      "train_loss": 8.238229522676418,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08687782287597656
+    },
+    {
+      "iteration": 59,
+      "train_loss": 7.330528757415854,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08718180656433105
+    },
+    {
+      "iteration": 60,
+      "train_loss": 7.936867491734184,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08735370635986328
+    },
+    {
+      "iteration": 61,
+      "train_loss": 7.027722807755026,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08721804618835449
+    },
+    {
+      "iteration": 62,
+      "train_loss": 8.237611519818534,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0869300365447998
+    },
+    {
+      "iteration": 63,
+      "train_loss": 8.5413599068592,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08663630485534668
+    },
+    {
+      "iteration": 64,
+      "train_loss": 7.935118808379888,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08646678924560547
+    },
+    {
+      "iteration": 65,
+      "train_loss": 7.93515952593429,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.09509634971618652
+    },
+    {
+      "iteration": 66,
+      "train_loss": 8.541696633144895,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08667135238647461
+    },
+    {
+      "iteration": 67,
+      "train_loss": 8.23893170442193,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08853912353515625
+    },
+    {
+      "iteration": 68,
+      "train_loss": 8.539009339909198,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0887143611907959
+    },
+    {
+      "iteration": 69,
+      "train_loss": 8.540232853271565,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08717203140258789
+    },
+    {
+      "iteration": 70,
+      "train_loss": 8.238196475847097,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08679580688476562
+    },
+    {
+      "iteration": 71,
+      "train_loss": 7.632521435469607,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08689522743225098
+    },
+    {
+      "iteration": 72,
+      "train_loss": 6.726099854145858,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.09103631973266602
+    },
+    {
+      "iteration": 73,
+      "train_loss": 7.330729071632446,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08692002296447754
+    },
+    {
+      "iteration": 74,
+      "train_loss": 7.634494526905192,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08697938919067383
+    },
+    {
+      "iteration": 75,
+      "train_loss": 7.63450322560452,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08699631690979004
+    },
+    {
+      "iteration": 76,
+      "train_loss": 7.331399346350944,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08695006370544434
+    },
+    {
+      "iteration": 77,
+      "train_loss": 7.331630959336156,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08700442314147949
+    },
+    {
+      "iteration": 78,
+      "train_loss": 8.842712507998398,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08674812316894531
+    },
+    {
+      "iteration": 79,
+      "train_loss": 7.934703219716416,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08877134323120117
+    },
+    {
+      "iteration": 80,
+      "train_loss": 7.934466505897674,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08672499656677246
+    },
+    {
+      "iteration": 81,
+      "train_loss": 8.540793121992685,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08722496032714844
+    },
+    {
+      "iteration": 82,
+      "train_loss": 8.239374778787937,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08688187599182129
+    },
+    {
+      "iteration": 83,
+      "train_loss": 8.5402483291119,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08688163757324219
+    },
+    {
+      "iteration": 84,
+      "train_loss": 7.936288055115156,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08676767349243164
+    },
+    {
+      "iteration": 85,
+      "train_loss": 8.238265851455852,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08730149269104004
+    },
+    {
+      "iteration": 86,
+      "train_loss": 8.238663372544451,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08681249618530273
+    },
+    {
+      "iteration": 87,
+      "train_loss": 8.843802845906978,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08693790435791016
+    },
+    {
+      "iteration": 88,
+      "train_loss": 8.843117754702618,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08716607093811035
+    },
+    {
+      "iteration": 89,
+      "train_loss": 8.237730573508905,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0866847038269043
+    },
+    {
+      "iteration": 90,
+      "train_loss": 7.0296308736822875,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08745455741882324
+    },
+    {
+      "iteration": 91,
+      "train_loss": 8.238718082079954,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08717870712280273
+    },
+    {
+      "iteration": 92,
+      "train_loss": 7.633076073594397,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08692312240600586
+    },
+    {
+      "iteration": 93,
+      "train_loss": 8.54085095846602,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08684015274047852
+    },
+    {
+      "iteration": 94,
+      "train_loss": 7.935894122937951,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08714127540588379
+    },
+    {
+      "iteration": 95,
+      "train_loss": 8.53987942223936,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0872349739074707
+    },
+    {
+      "iteration": 96,
+      "train_loss": 8.237828072313354,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08676004409790039
+    },
+    {
+      "iteration": 97,
+      "train_loss": 7.633586062716592,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08694219589233398
+    },
+    {
+      "iteration": 98,
+      "train_loss": 7.936407996391647,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.0869143009185791
+    },
+    {
+      "iteration": 99,
+      "train_loss": 8.540721863730086,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08702754974365234
+    },
+    {
+      "iteration": 100,
+      "train_loss": 8.23813175747863,
+      "quality_score": 0.7168580752580752,
+      "hallucination_rate": 0.04,
+      "coherence": 0.008,
+      "reasoning_stability": 0.5090446271523726,
+      "time": 0.08683133125305176
+    }
+  ],
+  "final_metrics": {
+    "iteration": 100,
+    "train_loss": 8.23813175747863,
+    "quality_score": 0.7168580752580752,
+    "hallucination_rate": 0.04,
+    "coherence": 0.008,
+    "reasoning_stability": 0.5090446271523726,
+    "time": 0.08683133125305176
+  }
+}

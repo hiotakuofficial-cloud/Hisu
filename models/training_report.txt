@@ -20,13 +20,13 @@ Supports: English, Hindi, Mixed
 TRAINING RESULTS:
 -----------------
 Anti-Hallucination Training:
-  - Iterations: 1
-  - Hallucination Rate: 0.00%
-  - Status: PASSED
+  - Iterations: 10
+  - Hallucination Rate: 33.33%
+  - Status: NEEDS IMPROVEMENT
 
 Reasoning Optimization:
   - Iterations: 4
-  - Quality Score: 0.732
+  - Quality Score: 0.709
   - Target Reached: False
   - Status: NEEDS IMPROVEMENT
 
