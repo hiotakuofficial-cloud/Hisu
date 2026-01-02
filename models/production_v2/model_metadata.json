@@ -1,0 +1,26 @@
+{
+  "model_name": "ConversationalAI-5B-v2",
+  "version": "2.0.0",
+  "generated_at": "2026-01-02T14:51:44.154968",
+  "parameters": 5642862592,
+  "vocab_size": 633,
+  "languages": [
+    "en",
+    "hi"
+  ],
+  "max_seq_length": 2048,
+  "training_results": {
+    "hallucination_rate": 0.2863703397250925,
+    "quality_score": 0.8417858621375461,
+    "model_ready": true,
+    "iterations": 30,
+    "best_quality": 0.8551366263893103,
+    "best_iteration": 29
+  },
+  "improvements": {
+    "previous_hallucination_rate": 0.6666666666666666,
+    "previous_quality_score": 0.6794444444444444,
+    "hallucination_improvement": 0.3802963269415741,
+    "quality_improvement": 0.16234141769310173
+  }
+}
