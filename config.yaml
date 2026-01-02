@@ -1,0 +1,45 @@
+project:
+  name: "AI ML Project"
+  version: "1.0.0"
+  random_seed: 42
+
+data:
+  train_test_split: 0.2
+  validation_split: 0.1
+  batch_size: 32
+
+preprocessing:
+  missing_value_strategy: "mean"
+  scaling_method: "standard"
+  encoding_method: "label"
+
+features:
+  polynomial_degree: 2
+  feature_selection_k: 10
+
+model:
+  type: "random_forest"
+  task: "classification"
+  
+training:
+  epochs: 100
+  learning_rate: 0.001
+  early_stopping: true
+  patience: 10
+  cross_validation_folds: 5
+
+hyperparameter_tuning:
+  method: "grid_search"
+  n_iter: 100
+  cv_folds: 5
+
+evaluation:
+  metrics:
+    classification: ["accuracy", "precision", "recall", "f1_score"]
+    regression: ["mse", "rmse", "mae", "r2_score"]
+
+paths:
+  data_dir: "data"
+  models_dir: "models"
+  logs_dir: "logs"
+  results_dir: "results"
