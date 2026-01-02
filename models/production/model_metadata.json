@@ -1,0 +1,21 @@
+{
+  "model_name": "ConversationalAI-5B",
+  "version": "1.0.0",
+  "generated_at": "2026-01-02T14:14:25.007422",
+  "parameters": 5642862592,
+  "vocab_size": 633,
+  "languages": [
+    "en",
+    "hi"
+  ],
+  "max_seq_length": 2048,
+  "training_results": {
+    "hallucination_rate": 0.6666666666666666,
+    "quality_score": 0.6794444444444444,
+    "model_ready": false
+  },
+  "validation": {
+    "avg_quality": 0.5395833333333333,
+    "test_queries": 4
+  }
+}
