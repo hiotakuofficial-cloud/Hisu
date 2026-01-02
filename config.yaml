@@ -1,0 +1,57 @@
+project:
+  name: "AI ML Project"
+  version: "1.0.0"
+  description: "Machine Learning project with modular structure"
+
+data:
+  path: "data/dataset.csv"
+  test_size: 0.2
+  val_size: 0.1
+  random_state: 42
+
+preprocessing:
+  scaling_method: "standard"
+  handle_missing: "mean"
+  remove_outliers: true
+  outlier_method: "iqr"
+  outlier_threshold: 1.5
+
+features:
+  selection_method: "k_best"
+  k_features: 10
+  importance_threshold: 0.01
+
+model:
+  task: "classification"
+  type: "random_forest"
+  params:
+    n_estimators: 100
+    max_depth: null
+    min_samples_split: 2
+    min_samples_leaf: 1
+    random_state: 42
+
+training:
+  cv_folds: 5
+  scoring: "accuracy"
+  n_jobs: -1
+  verbose: 1
+
+hyperparameter_tuning:
+  method: "grid_search"
+  n_iter: 100
+  cv_folds: 5
+
+evaluation:
+  metrics:
+    - "accuracy"
+    - "precision"
+    - "recall"
+    - "f1_score"
+  save_plots: true
+  plot_dir: "outputs"
+
+logging:
+  level: "INFO"
+  log_file: "logs/project.log"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
