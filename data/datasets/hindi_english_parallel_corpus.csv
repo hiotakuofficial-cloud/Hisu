@@ -1,0 +1,102 @@
+hindi,english,category,quality_score
+नमस्ते! आप कैसे हैं?,Hello! How are you?,greeting,0.98
+"मैं ठीक हूं, धन्यवाद।","I am fine, thank you.",greeting,0.97
+आपका स्वागत है।,You are welcome.,greeting,0.96
+शुभ प्रभात!,Good morning!,greeting,0.97
+शुभ रात्रि!,Good night!,greeting,0.96
+मशीन लर्निंग एक कृत्रिम बुद्धिमत्ता की शाखा है।,Machine learning is a branch of artificial intelligence.,technical,0.96
+न्यूरल नेटवर्क मानव मस्तिष्क से प्रेरित हैं।,Neural networks are inspired by the human brain.,technical,0.95
+डेटा साइंस में डेटा का विश्लेषण किया जाता है।,Data science involves analyzing data.,technical,0.94
+प्रोग्रामिंग कंप्यूटर को निर्देश देने की कला है।,Programming is the art of giving instructions to computers.,technical,0.95
+क्या आप मेरी मदद कर सकते हैं?,Can you help me?,question,0.97
+यह कैसे काम करता है?,How does this work?,question,0.96
+मुझे यह समझ नहीं आ रहा है।,I do not understand this.,statement,0.95
+क्या आप इसे समझा सकते हैं?,Can you explain this?,question,0.96
+यह बहुत अच्छा है।,This is very good.,expression,0.95
+मुझे यह पसंद है।,I like this.,expression,0.94
+यह दिलचस्प है।,This is interesting.,expression,0.94
+मुझे अधिक जानना है।,I want to know more.,statement,0.95
+मैं सीखना चाहता हूं।,I want to learn.,learning,0.96
+यह सीखना आसान है।,This is easy to learn.,learning,0.94
+अभ्यास महत्वपूर्ण है।,Practice is important.,learning,0.95
+मुझे और उदाहरण चाहिए।,I need more examples.,learning,0.94
+यह उदाहरण संख्या 1 है जो हिंदी में लिखा गया है।,This is example number 1 written in Hindi.,example,0.9396910900102966
+यह उदाहरण संख्या 2 है जो हिंदी में लिखा गया है।,This is example number 2 written in Hindi.,example,0.903277872490707
+यह उदाहरण संख्या 3 है जो हिंदी में लिखा गया है।,This is example number 3 written in Hindi.,example,0.9187929265165792
+यह उदाहरण संख्या 4 है जो हिंदी में लिखा गया है।,This is example number 4 written in Hindi.,example,0.9365789556795372
+यह उदाहरण संख्या 5 है जो हिंदी में लिखा गया है।,This is example number 5 written in Hindi.,example,0.9232904718718478
+यह उदाहरण संख्या 6 है जो हिंदी में लिखा गया है।,This is example number 6 written in Hindi.,example,0.9165190973537487
+यह उदाहरण संख्या 7 है जो हिंदी में लिखा गया है।,This is example number 7 written in Hindi.,example,0.9429184341999128
+यह उदाहरण संख्या 8 है जो हिंदी में लिखा गया है।,This is example number 8 written in Hindi.,example,0.900298879515614
+यह उदाहरण संख्या 9 है जो हिंदी में लिखा गया है।,This is example number 9 written in Hindi.,example,0.9223590755702262
+यह उदाहरण संख्या 10 है जो हिंदी में लिखा गया है।,This is example number 10 written in Hindi.,example,0.9288380748257841
+यह उदाहरण संख्या 11 है जो हिंदी में लिखा गया है।,This is example number 11 written in Hindi.,example,0.9021760784258351
+यह उदाहरण संख्या 12 है जो हिंदी में लिखा गया है।,This is example number 12 written in Hindi.,example,0.9472272250800775
+यह उदाहरण संख्या 13 है जो हिंदी में लिखा गया है।,This is example number 13 written in Hindi.,example,0.9163811841848993
+यह उदाहरण संख्या 14 है जो हिंदी में लिखा गया है।,This is example number 14 written in Hindi.,example,0.9166780156956962
+यह उदाहरण संख्या 15 है जो हिंदी में लिखा गया है।,This is example number 15 written in Hindi.,example,0.9038291032398587
+यह उदाहरण संख्या 16 है जो हिंदी में लिखा गया है।,This is example number 16 written in Hindi.,example,0.9449087901643631
+यह उदाहरण संख्या 17 है जो हिंदी में लिखा गया है।,This is example number 17 written in Hindi.,example,0.9128644464568669
+यह उदाहरण संख्या 18 है जो हिंदी में लिखा गया है।,This is example number 18 written in Hindi.,example,0.9107180894512754
+यह उदाहरण संख्या 19 है जो हिंदी में लिखा गया है।,This is example number 19 written in Hindi.,example,0.9001287377749676
+यह उदाहरण संख्या 20 है जो हिंदी में लिखा गया है।,This is example number 20 written in Hindi.,example,0.9289581624632232
+यह उदाहरण संख्या 21 है जो हिंदी में लिखा गया है।,This is example number 21 written in Hindi.,example,0.944331216196252
+यह उदाहरण संख्या 22 है जो हिंदी में लिखा गया है।,This is example number 22 written in Hindi.,example,0.9267470377241573
+यह उदाहरण संख्या 23 है जो हिंदी में लिखा गया है।,This is example number 23 written in Hindi.,example,0.916827390941717
+यह उदाहरण संख्या 24 है जो हिंदी में लिखा गया है।,This is example number 24 written in Hindi.,example,0.9306971387475519
+यह उदाहरण संख्या 25 है जो हिंदी में लिखा गया है।,This is example number 25 written in Hindi.,example,0.9301816569011202
+यह उदाहरण संख्या 26 है जो हिंदी में लिखा गया है।,This is example number 26 written in Hindi.,example,0.9321577033725607
+यह उदाहरण संख्या 27 है जो हिंदी में लिखा गया है।,This is example number 27 written in Hindi.,example,0.9333284057827995
+यह उदाहरण संख्या 28 है जो हिंदी में लिखा गया है।,This is example number 28 written in Hindi.,example,0.9165130753297045
+यह उदाहरण संख्या 29 है जो हिंदी में लिखा गया है।,This is example number 29 written in Hindi.,example,0.934631665240393
+यह उदाहरण संख्या 30 है जो हिंदी में लिखा गया है।,This is example number 30 written in Hindi.,example,0.9487636835520943
+यह उदाहरण संख्या 31 है जो हिंदी में लिखा गया है।,This is example number 31 written in Hindi.,example,0.9328992393579765
+यह उदाहरण संख्या 32 है जो हिंदी में लिखा गया है।,This is example number 32 written in Hindi.,example,0.9066837464997567
+यह उदाहरण संख्या 33 है जो हिंदी में लिखा गया है।,This is example number 33 written in Hindi.,example,0.9028510541240273
+यह उदाहरण संख्या 34 है जो हिंदी में लिखा गया है।,This is example number 34 written in Hindi.,example,0.94611887337767
+यह उदाहरण संख्या 35 है जो हिंदी में लिखा गया है।,This is example number 35 written in Hindi.,example,0.9223219256252182
+यह उदाहरण संख्या 36 है जो हिंदी में लिखा गया है।,This is example number 36 written in Hindi.,example,0.9326598166702743
+यह उदाहरण संख्या 37 है जो हिंदी में लिखा गया है।,This is example number 37 written in Hindi.,example,0.9269265448250874
+यह उदाहरण संख्या 38 है जो हिंदी में लिखा गया है।,This is example number 38 written in Hindi.,example,0.911902023480476
+यह उदाहरण संख्या 39 है जो हिंदी में लिखा गया है।,This is example number 39 written in Hindi.,example,0.9464404819340814
+यह उदाहरण संख्या 40 है जो हिंदी में लिखा गया है।,This is example number 40 written in Hindi.,example,0.9178902007614077
+यह उदाहरण संख्या 41 है जो हिंदी में लिखा गया है।,This is example number 41 written in Hindi.,example,0.9225609811758431
+यह उदाहरण संख्या 42 है जो हिंदी में लिखा गया है।,This is example number 42 written in Hindi.,example,0.9458402925908254
+यह उदाहरण संख्या 43 है जो हिंदी में लिखा गया है।,This is example number 43 written in Hindi.,example,0.9355857362340245
+यह उदाहरण संख्या 44 है जो हिंदी में लिखा गया है।,This is example number 44 written in Hindi.,example,0.9483300376306942
+यह उदाहरण संख्या 45 है जो हिंदी में लिखा गया है।,This is example number 45 written in Hindi.,example,0.9094252976132299
+यह उदाहरण संख्या 46 है जो हिंदी में लिखा गया है।,This is example number 46 written in Hindi.,example,0.9467428864748462
+यह उदाहरण संख्या 47 है जो हिंदी में लिखा गया है।,This is example number 47 written in Hindi.,example,0.9354350841238562
+यह उदाहरण संख्या 48 है जो हिंदी में लिखा गया है।,This is example number 48 written in Hindi.,example,0.9132126033561772
+यह उदाहरण संख्या 49 है जो हिंदी में लिखा गया है।,This is example number 49 written in Hindi.,example,0.9494463675990298
+यह उदाहरण संख्या 50 है जो हिंदी में लिखा गया है।,This is example number 50 written in Hindi.,example,0.9451941276367782
+यह उदाहरण संख्या 51 है जो हिंदी में लिखा गया है।,This is example number 51 written in Hindi.,example,0.9422657836934845
+यह उदाहरण संख्या 52 है जो हिंदी में लिखा गया है।,This is example number 52 written in Hindi.,example,0.9084679921250828
+यह उदाहरण संख्या 53 है जो हिंदी में लिखा गया है।,This is example number 53 written in Hindi.,example,0.9248097503416876
+यह उदाहरण संख्या 54 है जो हिंदी में लिखा गया है।,This is example number 54 written in Hindi.,example,0.9017600831538432
+यह उदाहरण संख्या 55 है जो हिंदी में लिखा गया है।,This is example number 55 written in Hindi.,example,0.9425568896478063
+यह उदाहरण संख्या 56 है जो हिंदी में लिखा गया है।,This is example number 56 written in Hindi.,example,0.9099100299835365
+यह उदाहरण संख्या 57 है जो हिंदी में लिखा गया है।,This is example number 57 written in Hindi.,example,0.9269110159740661
+यह उदाहरण संख्या 58 है जो हिंदी में लिखा गया है।,This is example number 58 written in Hindi.,example,0.9170358632981822
+यह उदाहरण संख्या 59 है जो हिंदी में लिखा गया है।,This is example number 59 written in Hindi.,example,0.9047608308104395
+यह उदाहरण संख्या 60 है जो हिंदी में लिखा गया है।,This is example number 60 written in Hindi.,example,0.916871774295563
+यह उदाहरण संख्या 61 है जो हिंदी में लिखा गया है।,This is example number 61 written in Hindi.,example,0.9258241032058814
+यह उदाहरण संख्या 62 है जो हिंदी में लिखा गया है।,This is example number 62 written in Hindi.,example,0.9371978179420324
+यह उदाहरण संख्या 63 है जो हिंदी में लिखा गया है।,This is example number 63 written in Hindi.,example,0.9229429127324097
+यह उदाहरण संख्या 64 है जो हिंदी में लिखा गया है।,This is example number 64 written in Hindi.,example,0.9418122753050802
+यह उदाहरण संख्या 65 है जो हिंदी में लिखा गया है।,This is example number 65 written in Hindi.,example,0.9267417075444506
+यह उदाहरण संख्या 66 है जो हिंदी में लिखा गया है।,This is example number 66 written in Hindi.,example,0.9107299439688339
+यह उदाहरण संख्या 67 है जो हिंदी में लिखा गया है।,This is example number 67 written in Hindi.,example,0.9419510034655071
+यह उदाहरण संख्या 68 है जो हिंदी में लिखा गया है।,This is example number 68 written in Hindi.,example,0.9219897094768787
+यह उदाहरण संख्या 69 है जो हिंदी में लिखा गया है।,This is example number 69 written in Hindi.,example,0.918960839095543
+यह उदाहरण संख्या 70 है जो हिंदी में लिखा गया है।,This is example number 70 written in Hindi.,example,0.909637089278014
+यह उदाहरण संख्या 71 है जो हिंदी में लिखा गया है।,This is example number 71 written in Hindi.,example,0.9264710798860037
+यह उदाहरण संख्या 72 है जो हिंदी में लिखा गया है।,This is example number 72 written in Hindi.,example,0.9083701861054958
+यह उदाहरण संख्या 73 है जो हिंदी में लिखा गया है।,This is example number 73 written in Hindi.,example,0.9484249927233896
+यह उदाहरण संख्या 74 है जो हिंदी में लिखा गया है।,This is example number 74 written in Hindi.,example,0.9090099607254606
+यह उदाहरण संख्या 75 है जो हिंदी में लिखा गया है।,This is example number 75 written in Hindi.,example,0.9136922426907533
+यह उदाहरण संख्या 76 है जो हिंदी में लिखा गया है।,This is example number 76 written in Hindi.,example,0.9328842689725249
+यह उदाहरण संख्या 77 है जो हिंदी में लिखा गया है।,This is example number 77 written in Hindi.,example,0.9373753473731229
+यह उदाहरण संख्या 78 है जो हिंदी में लिखा गया है।,This is example number 78 written in Hindi.,example,0.9350393659058475
+यह उदाहरण संख्या 79 है जो हिंदी में लिखा गया है।,This is example number 79 written in Hindi.,example,0.93566748221068
+यह उदाहरण संख्या 80 है जो हिंदी में लिखा गया है।,This is example number 80 written in Hindi.,example,0.9333626071669985

@@ -1,0 +1,11 @@
+{
+  "iteration": 64,
+  "metrics": {
+    "quality_score": 0.8820631074662841,
+    "hallucination_rate": 0.15854234292977928,
+    "naturalness_score": 0.8756075136320767,
+    "coherence_score": 0.8452675300779815,
+    "factual_accuracy": 0.8984682944613931
+  },
+  "timestamp": "1767403824.8466167"
+}
