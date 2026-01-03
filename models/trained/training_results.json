@@ -1,0 +1,168 @@
+{
+  "training": {
+    "total_steps": 3700,
+    "final_loss": 1.0356808418218857,
+    "final_perplexity": 2.817023530295464,
+    "num_epochs": 10
+  },
+  "evaluation": {
+    "averages": {
+      "quality": 0.9598621627199199,
+      "hallucination": 0.024518744352311196,
+      "coherence": 0.9433085390330256
+    },
+    "targets_met": {
+      "quality": true,
+      "hallucination": true,
+      "coherence": true,
+      "all": true
+    },
+    "test_examples": [
+      {
+        "input": "एनीमे कहां देखें?",
+        "output": "आप Crunchyroll, Netflix, Funimation जैसे प्लेटफॉर्म पर एनीमे देख सकते हैं।",
+        "quality": 0.9712661523060302,
+        "hallucination": 0.02363796418145451,
+        "coherence": 0.9248784790699314
+      },
+      {
+        "input": "Will there be a season 2?",
+        "output": "I would need to know which anime you're referring to, and even then, I can only provide information about officially announced seasons.",
+        "quality": 0.9515050812858449,
+        "hallucination": 0.037334159918683114,
+        "coherence": 0.9589236215450136
+      },
+      {
+        "input": "Hey there",
+        "output": "Hey! What can I help you with?",
+        "quality": 0.9513680037904504,
+        "hallucination": 0.02271138697922579,
+        "coherence": 0.9373595677009413
+      },
+      {
+        "input": "Like Fullmetal Alchemist",
+        "output": "For FMA's depth, try Steins;Gate, Made in Abyss, or The Promised Neverland.",
+        "quality": 0.9532219820750457,
+        "hallucination": 0.014133401203857254,
+        "coherence": 0.9560957410362849
+      },
+      {
+        "input": "Describe A-1 Pictures",
+        "output": "A-1 Pictures is a prolific studio producing diverse anime including Sword Art Online, Your Lie in April, and Kaguya-sama.",
+        "quality": 0.9465139110580382,
+        "hallucination": 0.03177412224269263,
+        "coherence": 0.9650368779446838
+      },
+      {
+        "input": "Do you know about anime?",
+        "output": "Yes, I have extensive knowledge about anime series, genres, characters, studios, and industry information.",
+        "quality": 0.9425488267029978,
+        "hallucination": 0.011376736139582363,
+        "coherence": 0.9657376574954434
+      },
+      {
+        "input": "I'm an anime expert",
+        "output": "Great! Are you looking for hidden gems, recent releases, or specific niche genres?",
+        "quality": 0.9406201765491425,
+        "hallucination": 0.020820000470549906,
+        "coherence": 0.9347751132280532
+      },
+      {
+        "input": "What is a filler episode?",
+        "output": "A filler episode is an anime episode not based on the original manga, created to prevent the anime from catching up to the source material.",
+        "quality": 0.9471903463330956,
+        "hallucination": 0.010075135683327062,
+        "coherence": 0.9222265219007665
+      },
+      {
+        "input": "I prefer lighthearted shows",
+        "output": "Lighthearted anime are great for relaxation! Would you like comedy, slice of life, or feel-good recommendations?",
+        "quality": 0.9772889138148696,
+        "hallucination": 0.010105416544572386,
+        "coherence": 0.9239619509087109
+      },
+      {
+        "input": "Who created Naruto?",
+        "output": "Naruto was created by Masashi Kishimoto, a Japanese manga artist.",
+        "quality": 0.9756446583076692,
+        "hallucination": 0.0316180235780386,
+        "coherence": 0.9258292175404049
+      },
+      {
+        "input": "Tell me about Re:Zero",
+        "output": "Re:Zero follows Subaru, who is transported to a fantasy world and gains the ability to return from death, but must relive trauma repeatedly.",
+        "quality": 0.9690612533133879,
+        "hallucination": 0.02749179004008724,
+        "coherence": 0.9697510591522006
+      },
+      {
+        "input": "What is Trigger known for?",
+        "output": "Studio Trigger is known for energetic, over-the-top animation and creative storytelling in series like Kill la Kill and Promare.",
+        "quality": 0.9551917489514562,
+        "hallucination": 0.025375536200950864,
+        "coherence": 0.9416990263086379
+      },
+      {
+        "input": "Studio Ghibli के बारे में बताओ",
+        "output": "Studio Ghibli एक famous Japanese animation studio है जो beautiful films जैसे Spirited Away और My Neighbor Totoro बनाती है।",
+        "quality": 0.967127962365594,
+        "hallucination": 0.033692695518961036,
+        "coherence": 0.9407867034212547
+      },
+      {
+        "input": "What's the meaning of life in anime?",
+        "output": "Different anime explore different philosophical themes. There's no single answer, as each series presents its own perspective.",
+        "quality": 0.970718732991914,
+        "hallucination": 0.02263647753797261,
+        "coherence": 0.9361908404436117
+      },
+      {
+        "input": "I'm excited",
+        "output": "Great energy! Would you like exciting action or adventure anime recommendations?",
+        "quality": 0.9510888719688843,
+        "hallucination": 0.02058648763618503,
+        "coherence": 0.9222779640377758
+      },
+      {
+        "input": "मैं beginner हूं, कहां से start करूं?",
+        "output": "Beginners के लिए मैं Death Note, Attack on Titan, या My Hero Academia recommend करता हूं। ये सभी engaging और easy to follow हैं।",
+        "quality": 0.9669920017082101,
+        "hallucination": 0.02741485221202155,
+        "coherence": 0.9650036845702532
+      },
+      {
+        "input": "Like Death Note but different",
+        "output": "If you liked Death Note's psychological elements, try Code Geass, Monster, or Psycho-Pass for similar strategic thinking.",
+        "quality": 0.9605891950654105,
+        "hallucination": 0.02852379656380718,
+        "coherence": 0.956724941994667
+      },
+      {
+        "input": "क्या आप anime के बारे में बता सकते हैं?",
+        "output": "हां, बिल्कुल! Anime Japanese animation है जो diverse genres और compelling stories के लिए famous है।",
+        "quality": 0.9575831226659051,
+        "hallucination": 0.03978473222494317,
+        "coherence": 0.947486170291145
+      },
+      {
+        "input": "What is Bleach about?",
+        "output": "Bleach follows Ichigo, who gains Soul Reaper powers and protects the living world from evil spirits while navigating the afterlife.",
+        "quality": 0.9714421704413118,
+        "hallucination": 0.019269832926433278,
+        "coherence": 0.9377039880256214
+      },
+      {
+        "input": "Tell me about Tokyo Ghoul",
+        "output": "Tokyo Ghoul follows Kaneki, who becomes half-ghoul and must navigate between human and ghoul worlds while struggling with his identity.",
+        "quality": 0.9702801427031437,
+        "hallucination": 0.03201233924287844,
+        "coherence": 0.9337216540451069
+      }
+    ]
+  },
+  "targets": {
+    "quality": 0.95,
+    "hallucination": 0.05,
+    "coherence": 0.9
+  }
+}
