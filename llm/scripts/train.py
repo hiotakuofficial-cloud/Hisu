@@ -1,6 +1,7 @@
 import sys
 import os
-sys.path.append(os.path.dirname(os.path.abspath(__file__)).replace('/scripts', ''))
+# Add llm directory to path for imports
+sys.path.append('/content/Hisu/llm')
 
 import torch
 import torch.nn as nn
