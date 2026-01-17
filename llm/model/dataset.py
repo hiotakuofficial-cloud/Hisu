@@ -31,7 +31,15 @@ class TextDataset(Dataset):
         print(f"📊 Total characters: {total_chars:,}")
         
         self.tokens = self.tokenizer.encode(all_text)
-        print(f"📊 Total tokens: {len(self.tokens):,}")
+        
+        # Limit dataset size for faster training
+        if hasattr(config, 'DATASET_LIMIT'):
+            from config.config import DATASET_LIMIT
+            if len(self.tokens) > DATASET_LIMIT:
+                self.tokens = self.tokens[:DATASET_LIMIT]
+                print(f"📊 Dataset limited to: {DATASET_LIMIT:,} tokens for faster training")
+        
+        print(f"📊 Final tokens used: {len(self.tokens):,}")
         print(f"📊 Vocab size: {self.tokenizer.n_vocab:,}")
         print("-" * 40)
         
